@@ -1,0 +1,17 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>intro git</title>\n</head>\n<body>\n<h1>din mor</h1>\n<h2>kom nuuuuu</h2>\n</body>\n<P> virker lortet ></P>\n</html>\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/index.html
+--- a/index.html	(revision 35c13c7ec77416dbafb64ec67c538a8cbb80c57c)
++++ b/index.html	(date 1788945185952)
+@@ -8,5 +8,5 @@
+ <h1>din mor</h1>
+ <h2>kom nuuuuu</h2>
+ </body>
+-<P> virker lortet ></P>
++<p> virker lortet </p>
+ </html>
